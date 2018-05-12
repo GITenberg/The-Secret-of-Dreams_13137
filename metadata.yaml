@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4859'
     url: http://www.gutenberg.org/2009/agents/4859
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13137#The-Secret-of-Dreams
 gutenberg_issued: '2004-08-08'
 gutenberg_type: Text
 identifiers:
