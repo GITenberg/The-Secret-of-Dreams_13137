@@ -1,0 +1,25 @@
+_repo: The-Secret-of-Dreams_13137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raizizun, Yacki
+    gutenberg_agent_id: '4859'
+    url: http://www.gutenberg.org/2009/agents/4859
+description: ''
+gutenberg_issued: '2004-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dreams'
+- !lcc 'BF'
+- !lcsh 'Dream interpretation'
+title: The Secret of Dreams
+url: http://www.gutenberg.org/ebooks/13137
